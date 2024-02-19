@@ -5,4 +5,5 @@ Pixar Animation stands as a powerhouse in the world of animated films, captivati
 In this project, the focus is on delving into the journey of Pixar over the years, using data visualization as the primary tool. Through visual exploration, the project aims to uncover the highs and lows of Pixar's endeavors, shedding light on its remarkable success and potential challenges along the way.
 
 Detailed Analysis: https://shorturl.at/oMUY8 
+
 Tools used: Excel, Power BI
